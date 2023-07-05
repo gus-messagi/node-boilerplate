@@ -1,4 +1,4 @@
-export default class UsersController {
+export class UsersController {
   constructor() {}
   
   findAll() {
