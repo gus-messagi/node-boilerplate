@@ -1,1 +1,1 @@
-import './user.factory'
+import './users.factory'
